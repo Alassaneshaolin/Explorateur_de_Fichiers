@@ -1,0 +1,9 @@
+Notre explorateur sera composé de 3 blocs:
+--Un header contenant : les boutons: accueil , actualliser, copier/couper/coller, supprimer, information, uploader, downloader, suivant/précedant.
+--Un aside contenant: l'arborescence.
+--Une section contenant: les dossiers et les fichiers.
+
+On a commencé à créer les differents blocs avec HTML et CSS
+apres on va essayer d'afficher les dossiers et les fichiers dans le aside c'est à dire la création de l'arborescence.
+Par la suite on va afficher le contenu des dossiers dans la section.
+On va ensuite creer les differents boutons du header.
